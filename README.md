@@ -4,7 +4,8 @@
 
 ## MCP动态资讯
 
- 1. [**Writing effective tools for agents — with agents（2025年9月11日）**](10_动态/Writing%20effective%20tools%20for%20agents%20—%20with%20agents（2025年9月11日）.md)
+ 1. [**全网终于有人，讲明白了MCP为啥不就叫API！！真实案例+流程图，说人话一眼看懂AI圈最神秘协议（2025年9月13日）**](10_动态/全网终于有人，讲明白了MCP为啥不就叫API！！真实案例+流程图，说人话一眼看懂AI圈最神秘协议（2025年9月13日）.md)
+ 2. [**Writing effective tools for agents — with agents（2025年9月11日）**](10_动态/Writing%20effective%20tools%20for%20agents%20—%20with%20agents（2025年9月11日）.md)
 
 ## MCP热点工具
 
